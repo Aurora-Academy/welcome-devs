@@ -1,3 +1,3 @@
 # Introduction
 
-Hi, I am achyut Adhikari. I am a full stack developer..
+Hi, I am achyut Adhikari. I am a full stack developer...

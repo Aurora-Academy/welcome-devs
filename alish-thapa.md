@@ -1,8 +1,7 @@
 # Introduction
 
 Hi, I am alish thapa. I am a full stack developer.
- 
- alish thapa.
 
+alish thapa.
 
- alish 
+alish thapa

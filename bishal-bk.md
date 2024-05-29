@@ -1,3 +1,3 @@
 # Introduction
 
-Hi, I am Bishal BK. I am a full stack developer.
+Hi, I am Bishal BK. I am learning MERN.

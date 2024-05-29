@@ -7,4 +7,4 @@
 2. If your name already exists in the file, add the number as shown below
    (For Eg. raktim-shrestha-1.md)
 
-3. Write something about yourself. Don't forget to use # syntax.
+3. Write something about yourself. Don't forget to use # syntaxx.

@@ -1,1 +1,1 @@
-i am ajit kumar chaudhary
+i am full stack developer
